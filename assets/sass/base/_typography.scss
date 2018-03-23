@@ -11,7 +11,7 @@ body {
 
 strong,
 b {
-	@include font-heading;
+	@include font-body;
 	color: $color-text-heading;
 	text-transform: none;
 	letter-spacing: normal;
